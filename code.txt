@@ -1,0 +1,47 @@
+Report
+
+File Index: 1.jpg
+Type: Car
+Text: S-BR8167
+Text: S-BR8167
+
+File Index: 2.jpg
+Type: Car
+
+File Index: 3.jpg
+Type: Car
+Text: BRO
+Text: obo/u
+Text: Normool
+Text: 45
+Text: P
+Text: 11:50
+Text: 85%
+Text: PARKING
+Text: BRO
+Text: obo/u
+Text: Normool
+Text: 45
+Text: P
+Text: 11:50
+Text: 85%
+Text: PARKING
+
+File Index: 4.jpg
+Type: Car
+Text: YHI9 OTZ
+Text: YHI9
+Text: OTZ
+
+File Index: 5.jpg
+Type: Car
+
+File Index: 6.jpg
+Type: Car
+
+File Index: 7.jpg
+Type: Car
+Text: LP 610 LB
+Text: LP
+Text: 610
+Text: LB
