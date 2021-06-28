@@ -18,7 +18,7 @@ import java.util.Random;
 
 public class TextRecognition {
     public static void main(String[] args) throws IOException{
-        String doc = "code.txt";
+        String doc = "output.txt";
 
         FileWriter fstream = new FileWriter(doc);
         BufferedWriter outTitle = new BufferedWriter(fstream);
